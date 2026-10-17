@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.tmp-tests/
+.pytest_cache/
+.skills-sync/
+hub/
+state/
+config.json
+.env
+.env.*
+*.log
